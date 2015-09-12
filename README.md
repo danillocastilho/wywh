@@ -2,6 +2,6 @@
 
 Experiment
 
-git clone https://github.com/danillocastilho/wywh.git
-npm install
-run gulp at terminal
+git clone https://github.com/danillocastilho/wywh.git\n
+npm install\n
+run gulp at terminal\n

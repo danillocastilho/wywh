@@ -1,0 +1,23 @@
+# Include your project-specific ignores in this file
+# Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
+
+node_modules/
+
+.sass-cache/
+
+.DS_Store
+
+.sublime-workspace
+
+base.sublime-workspace
+
+*.sublime-workspace
+
+
+# Deploy files #
+################
+
+deploy/js/*.js
+deploy/css/*.css
+deploy/img
+deploy/index.html

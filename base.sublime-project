@@ -1,0 +1,29 @@
+
+{
+	"folders":
+	[
+		{
+			"path": "./",
+			"name": "WYWH - Experiment",
+			"file_exclude_patterns": [
+				"*.sublime-workspace",
+				"*.sass-cache",
+				"*.map",
+				"base.sublime-project",
+				".gitignore",
+				".editorconfig",
+				"README.md"
+			],
+			"folder_exclude_patterns": [
+				"node_modules",
+				"deploy"
+			]
+		}
+	],
+	"settings":
+	{
+		"tab_size": 2,
+		"margin": 2,
+		"translate_tabs_to_spaces": false
+	}
+}
